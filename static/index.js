@@ -1,0 +1,1 @@
+console.log("Dimple is a good boy");
